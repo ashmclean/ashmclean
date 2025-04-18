@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Front-End Development<br>🎯 Goals: To be a Front-End Developer/ UI/UX Designer</p>
+<p align="left">📚 I'm currently learning Cybersecurity<br>🎯 Goals: To be a Cybersecurity Specialist</p>
 
 ###
 
